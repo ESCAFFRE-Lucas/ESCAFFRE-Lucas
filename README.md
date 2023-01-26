@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Escaffre</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ESCAFFRE-Lucas&label=Profile%20views&color=0e75b6&style=flat" alt="tonycava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ESCAFFRE-Lucas&label=Profile%20views&color=0e75b6&style=flat" alt="ESCAFFRE-Lucas" /> </p>
 
 - 🔭 I’m currently working on an online project manager 
 
@@ -125,8 +125,6 @@
 </a>
 
 </p>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ESCAFFRE-Lucas&&theme=xcode)](https://github.com/ESCAFFRE-Lucas)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ESCAFFRE-Lucas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ESCAFFRE-Lucas" /></p>
 
